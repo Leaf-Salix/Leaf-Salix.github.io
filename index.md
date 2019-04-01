@@ -52,7 +52,7 @@
 
 %%%[租酥雨](http://www.cnblogs.com/zhoushuyu/)
 
-%%%[顾z](http://rpdreamer.blog.luogu.org)
+%%%[顾](<https://www.cnblogs.com/-guz/>)[z](http://rpdreamer.blog.luogu.org)
 
 %%%[胡小兔](http://www.cnblogs.com/RabbitHu/)
 

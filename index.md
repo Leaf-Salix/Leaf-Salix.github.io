@@ -48,6 +48,8 @@
 
 ### 其他大佬的博客链接
 
+***看这些大佬的博客是真的可以学到东西的QAQ***
+
 %%%[owencodeisking](http://www.cnblogs.com/owencodeisking/)
 
 %%%[Cold_Chair](http://me.csdn.net/Cold_Chair)
@@ -70,3 +72,6 @@
 
 %%%[自为风月马前卒](http://www.cnblogs.com/zwfymqz/)
 
+%%%[JZYshuraK_彧](https://www.cnblogs.com/ShuraK/)
+
+%%%[_Lancy](<https://www.cnblogs.com/ifmyt/>)

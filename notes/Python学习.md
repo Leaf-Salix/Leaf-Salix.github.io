@@ -1286,32 +1286,36 @@ import turtle就是这段程序可绘图的原因
 
     - <变量>表示每次循环次数（循环到了第几次），0到<次数>-1
 
-      ```python
-      for i in range(5):
-      	print(i)
-      result:
-          0
-          1
-          2
-          3
-          4
-      
-      #若
-      #for i in range(5):
-      #	print("Hello:",i)
-      #result:
-      #    Hello: 0
-      #    Hello: 1
-      #    Hello: 2
-      #    Hello: 3
-      #    Hello: 4
-      #可以发现print中的“,”起到了空格的作用
-      ```
-  
 - range()函数：产生循环计数序列
 
   - range(n)：产生0到n-1的整数序列，共n个数
   - range(m,n)：产生m到n-1的整数序列，共n-m个
+
+```python
+for i in range(5):
+	print(i)
+result:
+    0
+    1
+    2
+    3
+    4
+    
+    
+    
+#若
+#for i in range(5):
+#	print("Hello:",i)
+#result:
+#    Hello: 0
+#    Hello: 1
+#    Hello: 2
+#    Hello: 3
+#    Hello: 4
+#可以发现print中的“,”起到了空格的作用
+```
+
+
 
 #### "Python蟒蛇绘制"代码分析
 

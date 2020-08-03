@@ -1296,7 +1296,7 @@ import turtle就是这段程序可绘图的原因
           3
           4
       
-      '''
+      """
       若
       for i in range(5):
       	print("Hello:",i)
@@ -1307,7 +1307,7 @@ import turtle就是这段程序可绘图的原因
           Hello: 3
           Hello: 4
       可以发现print中的“,”起到了空格的作用
-      '''
+      """
       ```
 
 - range()函数：产生循环计数序列

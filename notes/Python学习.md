@@ -1296,20 +1296,18 @@ import turtle就是这段程序可绘图的原因
           3
           4
       
-      """
-      若
-      for i in range(5):
-      	print("Hello:",i)
-      result:
-          Hello: 0
-          Hello: 1
-          Hello: 2
-          Hello: 3
-          Hello: 4
-      可以发现print中的“,”起到了空格的作用
-      """
+      #若
+      #for i in range(5):
+      #	print("Hello:",i)
+      #result:
+      #    Hello: 0
+      #    Hello: 1
+      #    Hello: 2
+      #    Hello: 3
+      #    Hello: 4
+      #可以发现print中的“,”起到了空格的作用
       ```
-
+  
 - range()函数：产生循环计数序列
 
   - range(n)：产生0到n-1的整数序列，共n个数

@@ -1425,7 +1425,7 @@ turtle.done()
 
     ‪‬‪‬‪‬‪‬‪‬‮‬‫‬‪‬‪‬‪‬‪‬‪‬‪‬‮‬‫‬‮‬‪‬‪‬‪‬‪‬‪‬‮‬‫‬‫‬‪‬‪‬‪‬‪‬‪‬‮‬‪‬‫‬‪‬‪‬‪‬‪‬‪‬‮‬‪‬‫‬‪‬‪‬‪‬‪‬‪‬‮‬‪‬‭‬
 
-   ![img](https://python123.io/images/73/a8/14399715c4c74e2a1bd80de4e636.png)
+   ![img](https://leaf-salix.github.io/notes/Python%E5%AD%A6%E4%B9%A0_pictures/2.png)
 
    ```python
    import turtle as t

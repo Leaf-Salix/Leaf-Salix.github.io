@@ -1,0 +1,19 @@
+安装python时add python to path
+安装pip
+	让python pip使用国内镜像
+	临时：
+	可以在使用pip的时候加参数-i https://pypi.tuna.tsinghua.edu.cn/simple
+	例如：pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyspider，这样就会从清华这边的镜像去安装pyspider库。
+	永久：
+	在C:\Users\xx用户名\pip下创建pip.ini
+	里面输入
+	[global]
+	index-url = https://pypi.tuna.tsinghua.edu.cn/simple
+	[install]
+	trusted-host=mirrors.aliyun.com
+然后在cmd里面输入pip install requests
+更新pip时（可能需要右键以管理员身份运行cmd）输入python -m pip install --upgrade pip
+可能还需要一个
+pip install pyinstaller
+这样就可以按住shift右键打开某个目录的powershell
+输入pyinstaller -F x.py把x.py打包出exe来

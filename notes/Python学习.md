@@ -8,25 +8,25 @@
 
 以下为分章节链接：
 
-[1.Python基本语法元素]()
+[1.Python基本语法元素](https://leaf-salix.github.io/notes/Python_BIT_MOOC/1.Python%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%E5%85%83%E7%B4%A0)
 
-[2.Python基本图形绘制]()
+[2.Python基本图形绘制](https://leaf-salix.github.io/notes/Python_BIT_MOOC/2.Python%E5%9F%BA%E6%9C%AC%E5%9B%BE%E5%BD%A2%E7%BB%98%E5%88%B6)
 
-[3.基本数据类型]()
+[3.基本数据类型](https://leaf-salix.github.io/notes/Python_BIT_MOOC/3.%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
 
-[4.程序的控制结构]()
+[4.程序的控制结构](https://leaf-salix.github.io/notes/Python_BIT_MOOC/4.%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%8E%A7%E5%88%B6%E7%BB%93%E6%9E%84)
 
-[5.函数和代码复用]()
+[5.函数和代码复用](https://leaf-salix.github.io/notes/Python_BIT_MOOC/5.%E5%87%BD%E6%95%B0%E5%92%8C%E4%BB%A3%E7%A0%81%E5%A4%8D%E7%94%A8)
 
-[6.组合数据类型]()
+[6.组合数据类型](https://leaf-salix.github.io/notes/Python_BIT_MOOC/6.%E7%BB%84%E5%90%88%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
 
-[7.文件和数据格式化]()
+[7.文件和数据格式化](https://leaf-salix.github.io/notes/Python_BIT_MOOC/7.%E6%96%87%E4%BB%B6%E5%92%8C%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F%E5%8C%96)
 
-[8.程序设计方法学]()
+[8.程序设计方法学](https://leaf-salix.github.io/notes/Python_BIT_MOOC/8.%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95%E5%AD%A6)
 
-[9.Python计算生态概览]()
+[9.Python计算生态概览](https://leaf-salix.github.io/notes/Python_BIT_MOOC/9.Python%E8%AE%A1%E7%AE%97%E7%94%9F%E6%80%81%E6%A6%82%E8%A7%88)
 
-[10.全课程总结与学习展望]()
+[10.全课程总结与学习展望](https://leaf-salix.github.io/notes/Python_BIT_MOOC/10.%E5%85%A8%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93%E4%B8%8E%E5%AD%A6%E4%B9%A0%E5%B1%95%E6%9C%9B)
 
 ---
 

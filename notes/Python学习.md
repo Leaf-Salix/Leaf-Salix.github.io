@@ -130,7 +130,7 @@
 
 #### Python语言Windows系统开发环境
 
-​	在[这里](python.org)或[这里](python123.io/download)下载python3.x
+​	在[这里](https://www.python.org/)或[这里](https://python123.io/download)下载python3.x
 
 ​	在安装时勾选add python3.x to path（即把python命令添加到环境变量）
 
